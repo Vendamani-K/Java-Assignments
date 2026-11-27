@@ -1,0 +1,8 @@
+apple
+ant
+banana
+ball
+cat
+car
+dog
+apple
